@@ -2,6 +2,8 @@
 
 No Galaxy modules are required.
 
+Playbook file: carbon_edr_installation.yml
+
 This playbook will help you to install Carbon Black EDR on RHEL/CentOS.
 
 This playbook has 3 tasks: <br>
