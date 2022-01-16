@@ -10,11 +10,10 @@ Task-02: Download and Extract VMware Carbon EDR from the github repositary <br>
 Task-03: Install VMware Carbon Black EDR Control from the directory /opt/CarbonBlackEdr/
 
 Requirements:
-- The network connection between your node and Github (you can change to local remote host) should be allowed since this playbook will fetch the installation from the CB server directly.
+- The network connection between your node and Github should be allowed since this playbook will fetch the installation from the CB server directly.
 
-
-
-
+Notes:
+You can change the src to be pointed to a local host.
 
 
 **Example Playbook**
