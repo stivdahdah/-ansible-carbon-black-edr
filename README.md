@@ -7,7 +7,7 @@ Playbook file: carbon_edr_installation.yml
 This playbook will help you to install Carbon Black EDR on RHEL/CentOS.
 
 This playbook has 3 tasks: <br>
-Task-01: Create a directory called CarbonBlackApp in /opt <br>
+Task-01: Create a directory called CarbonBlackEdr in /opt <br>
 Task-02: Download and Extract VMware Carbon EDR from the github repositary <br>
 Task-03: Install VMware Carbon Black EDR Control from the directory /opt/CarbonBlackEdr/
 
